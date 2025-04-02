@@ -3,7 +3,7 @@
 # Todo List App JavaScript Tutorial
 
 A **_step-by-step_ tutorial** showing you how to
-build a **Todo List App _from scratch_** in **`JavaScript`**.
+build a **Todo List App _from scratch_** in **`JavaScript`** with best practices.
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/dwyl/javascript-todo-list-tutorial/ci.yml?label=build&style=flat-square&branch=main)](https://github.com/dwyl/javascript-todo-list-tutorial/actions)
 [![codecov.io](https://img.shields.io/codecov/c/github/dwyl/javascript-todo-list-tutorial/main.svg?style=flat-square)](https://codecov.io/github/dwyl/javascript-todo-list-tutorial?branch=main)
