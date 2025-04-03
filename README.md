@@ -7,7 +7,7 @@ build a **Todo List App _from scratch_** in **`JavaScript`**.
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/dwyl/javascript-todo-list-tutorial/ci.yml?label=build&style=flat-square&branch=main)](https://github.com/dwyl/javascript-todo-list-tutorial/actions)
 [![codecov.io](https://img.shields.io/codecov/c/github/dwyl/javascript-todo-list-tutorial/main.svg?style=flat-square)](https://codecov.io/github/dwyl/javascript-todo-list-tutorial?branch=main)
-[![Dependencies: None](https://img.shields.io/badge/dependencies-none-brightgreen.svg?style=flat-square)](https://github.com/dwyl/javascript-todo-list-tutorial/blob/main/package.json#L12 "Zero Dependencies")
+[![Dependencies: None](https://img.shields.io/badge/dependencies-none-brightgreen.svg?style=flat-square)](https://github.com/dwyl/javascript-todo-list-tutorial/blob/main/package.json#L12 "Zero Runtime Dependencies")
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/dwyl/javascript-todo-list-tutorial/issues)
 [![HitCount](https://hits.dwyl.com/dwyl/todo-list-javascript-tutorial.svg)](https://hits.dwyl.com/dwyl/javascript-todo-list-tutorial)
 <!-- uncomment when service is working ... [![Inline docs](http://inch-ci.org/github/dwyl/javascript-todo-list-tutorial.svg?branch=main&style=flat-square)](http://inch-ci.org/github/dwyl/javascript-todo-list-tutorial) -->
